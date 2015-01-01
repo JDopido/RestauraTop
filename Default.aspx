@@ -20,7 +20,7 @@
         <ul>
             <li><a href="#">Home</a></li>
             <li class="pure-menu-selected"><a href="#">Pricing</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Contacto</a></li>
         </ul>
     </div>
 
