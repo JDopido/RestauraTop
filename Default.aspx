@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <title>xxxx</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="pure-min.css" />
@@ -19,7 +19,8 @@
         <a href="#" class="pure-menu-heading">Your Logo</a>
         <ul>
             <li><a href="#">Home</a></li>
-            <li class="pure-menu-selected"><a href="#">Pricing</a></li>
+            <li><a href="#">Home</a></li>
+            <li class="pure-menu-selected"><a href="#">Precios</a></li>
             <li><a href="#">Contact</a></li>
         </ul>
     </div>
